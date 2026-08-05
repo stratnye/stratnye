@@ -20,6 +20,13 @@
 |Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
 
 </details>
+<details><summary>Education</summary>
+|Institution                                 |Degree                                  |Dates            |
+|--------------------------------------------|----------------------------------------|-----------------|
+|Purdue University Daniels School of Business|Graduate Certificate, Business Analytics|Expected May 2027|
+|Grinnell College                            | Bachelor of Arts, Sociology            | 2013            |
+  
+</details>
 <details>
   <Summary> School Projects </Summary>
   
