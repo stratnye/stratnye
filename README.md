@@ -21,11 +21,16 @@
 
 </details>
 <details><summary>Education</summary>
-|Institution                                 |Degree                                  |Dates            |
+  
+| Institution| Degree                                 | Dates           |
 |--------------------------------------------|----------------------------------------|-----------------|
 |Purdue University Daniels School of Business|Graduate Certificate, Business Analytics|Expected May 2027|
-|Grinnell College                            | Bachelor of Arts, Sociology            | 2013            |
-  
+|Grinnell College                            |Bachelor of Arts, Sociology             | 2013            |
+
+**Certifications:** 
+Professional in Human Resources, HRCI 
+Certified Diversity & Inclusion Recruiter, AIRS
+
 </details>
 <details>
   <Summary> School Projects </Summary>
@@ -33,7 +38,8 @@
   ### Using AI for Business Analytics - Summer 2026
 
   Nova Retail Dashboard
-  - Link Here:
+  - Link Here: https://st-nova-retail.streamlit.app/
+  - Repo: https://github.com/stratnye/NovaRetail
   - Assignment to practice exploratory data analysis and data wrangling
   - Interactive visual dashboard, written in Python, deployed via Streamlit
     
@@ -42,7 +48,7 @@
   - Supervised learning project: creating a multiple variable linear regression using Google Colab, Gradio for rapid prototyping
 
  IBM Employee Attrition App
-  - Link Here:
+  - Link Here: https://87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app/
   - K-means clustering
   - Python app deployed to Plotly Cloud
     
