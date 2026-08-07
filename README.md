@@ -2,12 +2,14 @@
 
 ### Recruiter by day, learning data analytics by night
 
-- 🛠️I work at <a href="https://rundoo.ai/">Rundoo</a>, where I'm helping build out our Chicago-based Go-to-Market org. 
-- 🔭 Nights and weekends, I'm working on a graduate certificate in Business Analytics at Purdue's Daniels School of Business
+## About Me: 
+- 🛠️I work at <a href="https://rundoo.ai/">Rundoo</a>, where I'm helping build out our Chicago-based Go-to-Market org. We are big fans of AI and automation here, and always looking for creative ways to optimize work. 
+- 🔭 Nights and weekends, I'm working on a graduate certificate in Business Analytics at Purdue's Daniels School of Business. I plan to apply what I've learned to support business decision making in my work within HR and Talent Acquisition. 
 - When I'm not doing either of those things, I'm knitting 🧶 or training with the <a href="https://www.chicagoswordplayguild.com/"> Chicago Swordplay Guild.</a> ⚔️
-- 🌱 I'm currently learning Python, and vibe-coding. 
-
+- 🌱 I'm currently learning Python and vibe-coding, so far mostly with Claude. 
 - 📫 How to reach me **stratnye@purdue.edu**
+
+## CV
 <details>
   <Summary>Work Experience</Summary>
   
@@ -31,9 +33,14 @@
 Professional in Human Resources, HRCI 
 Certified Diversity & Inclusion Recruiter, AIRS
 
+
 </details>
 <details>
-  <Summary> School Projects </Summary>
+  <summary>Tech Stack</summary>
+  ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude) 
+</details>
+<details>
+  <Summary> Projects </Summary>
   
   ### Using AI for Business Analytics - Summer 2026
 
