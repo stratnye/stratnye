@@ -10,8 +10,27 @@
 - 📫 How to reach me **stratnye@purdue.edu**
 
 ## CV
+
+### Tech Stack:
+  ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude) 
+  ![Static Badge](https://img.shields.io/badge/Claude_Code-black?logo=claudecode)
+  ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=googlegemini)
+  
+  ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
+  ![Static Badge](https://img.shields.io/badge/Jupyter-black?logo=jupyter)
+  ![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
+  ![Static Badge](https://img.shields.io/badge/Pandas-black?logo=pandas)
+  ![Static Badge](https://img.shields.io/badge/Scikit_Learn-black?logo=scikit-learn)
+  ![Static Badge](https://img.shields.io/badge/Numpy-black?logo=numpy)
+
+
+  ![Static Badge](https://img.shields.io/badge/Colab-black?logo=googlecolab)
+  ![Static Badge](https://img.shields.io/badge/Gradio-black?logo=gradio)
+  ![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+  ![Static Badge](https://img.shields.io/badge/Dash-black?logo=dash)
+
 <details>
-  <Summary>Work Experience</Summary>
+  <Summary><h3>Work Experience</h3></Summary>
   
 | Company| Title               | Dates          |
 |--------|---------------------|--------------- |
@@ -20,9 +39,8 @@
 |Thoughtworks| Senior Recruiter | 2021 |
 |BenchPrep| Talent Acquisition Specialist | 2019-2021|
 |Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
-
 </details>
-<details><summary>Education</summary>
+<details><summary><h3>Education</h3></summary>
   
 | Institution| Degree                                 | Dates           |
 |--------------------------------------------|----------------------------------------|-----------------|
@@ -30,33 +48,29 @@
 |Grinnell College                            |Bachelor of Arts, Sociology             | 2013            |
 
 **Certifications:** 
-Professional in Human Resources, HRCI 
-Certified Diversity & Inclusion Recruiter, AIRS
-
-
+- Professional in Human Resources, HRCI 
+- Certified Diversity & Inclusion Recruiter, AIRS
+- Python for Data Science, AI & Development, IBM, via Coursera
+- Human Resources Analytics, University of California, Irvine, via Coursera
 </details>
 <details>
-  <summary>Tech Stack</summary>
-  ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude) 
-</details>
-<details>
-  <Summary> Projects </Summary>
+  <Summary><h3>Projects </h3></Summary>
   
   ### Using AI for Business Analytics - Summer 2026
 
-  Nova Retail Dashboard
+<strong>Nova Retail Dashboard</strong>
   - Link Here: https://st-nova-retail.streamlit.app/
   - Repo: https://github.com/stratnye/NovaRetail
   - Assignment to practice exploratory data analysis and data wrangling
   - Interactive visual dashboard, written in Python, deployed via Streamlit
     
-  Airbnb Arbitrage App
-  - Link Here:
+  <strong>Airbnb Arbitrage App</strong>
+  - Link Here: https://colab.research.google.com/drive/1FwhHzCvHVvHwcDe374X1KFQtBeo1ADVz?usp=sharing
   - Supervised learning project: creating a multiple variable linear regression using Google Colab, Gradio for rapid prototyping
 
- IBM Employee Attrition App
+ <strong>IBM Employee Attrition App</strong>
   - Link Here: https://87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app/
-  - K-means clustering
+  - K-means clustering to segment IBM employee population and explore differences between employees who leave and employees who stay. 
   - Python app deployed to Plotly Cloud
     
 </details>
