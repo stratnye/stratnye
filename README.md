@@ -15,15 +15,12 @@
   ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude) 
   ![Static Badge](https://img.shields.io/badge/Claude_Code-black?logo=claudecode)
   ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=googlegemini)
-  
   ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
   ![Static Badge](https://img.shields.io/badge/Jupyter-black?logo=jupyter)
   ![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
   ![Static Badge](https://img.shields.io/badge/Pandas-black?logo=pandas)
   ![Static Badge](https://img.shields.io/badge/Scikit_Learn-black?logo=scikit-learn)
   ![Static Badge](https://img.shields.io/badge/Numpy-black?logo=numpy)
-
-
   ![Static Badge](https://img.shields.io/badge/Colab-black?logo=googlecolab)
   ![Static Badge](https://img.shields.io/badge/Gradio-black?logo=gradio)
   ![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
@@ -31,6 +28,10 @@
 
 <details>
   <Summary><h3>Work Experience</h3></Summary>
+  Strategic Talent AcquisiHon leader with over 8 years of experience driving growth in high-growth B2B
+SaaS startups and technology companies. Proven success in scaling GTM, technical, and corporate teams
+across all business levels. Skilled in full-cycle recruiting, diversity initiatives, and partnering with
+leadership to build high-performing, inclusive teams that support organizational goals.
   
 | Company| Title               | Dates          |
 |--------|---------------------|--------------- |
@@ -58,21 +59,21 @@
   
   ### Using AI for Business Analytics - Summer 2026
 
-<strong>Nova Retail Dashboard</strong>
-  - Link Here: https://st-nova-retail.streamlit.app/
-  - Repo: https://github.com/stratnye/NovaRetail
+<strong>Nova Retail Dashboard</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fst-nova-retail.streamlit.app%2F)
+    ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=%20https%3A%2F%2Fgithub.com%2Fstratnye%2FNovaRetail)
+
   - Assignment to practice exploratory data analysis and data wrangling
   - Interactive visual dashboard, written in Python, deployed via Streamlit
+  - Skills: Claude, Python, pandas, plotly, streamlit
     
-  <strong>Airbnb Arbitrage App</strong>
-  - Link Here: https://colab.research.google.com/drive/1FwhHzCvHVvHwcDe374X1KFQtBeo1ADVz?usp=sharing
+  <strong>Airbnb Arbitrage App</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1FwhHzCvHVvHwcDe374X1KFQtBeo1ADVz%3Fusp%3Dsharing)
   - Supervised learning project: creating a multiple variable linear regression using Google Colab, Gradio for rapid prototyping
+  - Skills: Claude, Colab, Python, numpy, pandas, plotly, 
 
- <strong>IBM Employee Attrition App</strong>
-  - Link Here: https://87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app/
+ <strong>IBM Employee Attrition App</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2F87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app%2F) ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Fstratnye%2Fibm-employee-turnover)
   - K-means clustering to segment IBM employee population and explore differences between employees who leave and employees who stay. 
   - Python app deployed to Plotly Cloud
-    
+  - Skills: Claude, Colab, Python, numpy, pandas, scikit-learn, dash, plotly
 </details>
 
 <h3 align="left">Connect with me:</h3>
