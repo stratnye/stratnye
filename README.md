@@ -1,3 +1,5 @@
+<img width="640" height="364" alt="my lovely dog Hazel, a light brown schnauzer mix, looking at the camera" src="https://github.com/user-attachments/assets/01021bd9-4f50-45b3-9e6d-462816e60b40" />
+
 # Hi 👋, I'm Shannon Tratnyek 
 
 ### Recruiter by day, learning data analytics by night
