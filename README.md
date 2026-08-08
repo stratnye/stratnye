@@ -28,10 +28,12 @@
 
 <details>
   <Summary><h3>Work Experience</h3></Summary>
-  Strategic Talent AcquisiHon leader with over 8 years of experience driving growth in high-growth B2B
+
+  Strategic Talent Acquisition leader with over 8 years of experience driving growth in high-growth B2B
 SaaS startups and technology companies. Proven success in scaling GTM, technical, and corporate teams
 across all business levels. Skilled in full-cycle recruiting, diversity initiatives, and partnering with
 leadership to build high-performing, inclusive teams that support organizational goals.
+
   
 | Company| Title               | Dates          |
 |--------|---------------------|--------------- |
@@ -40,6 +42,9 @@ leadership to build high-performing, inclusive teams that support organizational
 |Thoughtworks| Senior Recruiter | 2021 |
 |BenchPrep| Talent Acquisition Specialist | 2019-2021|
 |Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
+
+Read more on <a href="http://www.linkedin.com/in/shannonkellytratnyek/">LinkedIn.</a>
+
 </details>
 <details><summary><h3>Education</h3></summary>
   
